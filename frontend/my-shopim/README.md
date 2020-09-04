@@ -48,8 +48,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
  # Redux
  I use React-Redux for state management for data.
-
  # TypeScript
-
  I use TypeScript for my things.
  
